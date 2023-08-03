@@ -1,0 +1,10 @@
+autopep8
+beautifulsoup4
+discord.py
+dnspython
+pycodestyle
+python-dotenv
+requests-toolbelt
+pymongo[svr]
+cloudscraper
+requests
